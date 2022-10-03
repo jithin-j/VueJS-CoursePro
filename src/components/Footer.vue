@@ -1,9 +1,9 @@
 <template>
-    <div class="main">
+    <footer class="container flex flex-wrap gap-4 justify-center md:justify-between mt-4">
         <a href="#">
             <h3>2021-2022 © Course Pro Private Limited</h3>
         </a>
-        <div class="subpt">
+        <div class="flex gap-8">
             <a href="">
                 <h3>Terms & Conditions</h3>
             </a>
@@ -11,7 +11,7 @@
                 <h3>Privacy Policy</h3>
             </a>
         </div>
-    </div>
+    </footer>
 
 </template>
 
@@ -21,18 +21,6 @@
  }
 </script>
 <style scoped>
-    .main{
-        display: flex;
-        flex-direction: row;
-        gap: 10rem;
-        justify-content: space-between;
-        margin: 1rem;
-    }
-    .subpt{
-        display: flex;
-        flex-direction: row;
-        gap: 2rem;
-    }
     a:visited{
         text-decoration: none;
         color: black;

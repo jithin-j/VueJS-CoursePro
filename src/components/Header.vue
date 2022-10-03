@@ -1,10 +1,9 @@
 <template>
-    <div class="main">
+    <div class="sticky flex flex-row justify-between p-4 top-0 bg-white shadow-sm">
         <a href="#"><img src="../assets/Logo.svg" alt="Logo"></a>
-        <div class="sub">
+        <div class="flex flex-row gap-4 justify-center items-center mt-[0.7rem]">
             <a href="#">Login</a>
-            <button
-                style="height: 2rem; width: 6rem; background: #01CB63; box-shadow: 0px 5px 15px #01CB6359; border-radius: 10px;">Register</button>
+            <button class="btn bg-green">Register</button>
         </div>
     </div>
 </template>
@@ -16,24 +15,3 @@ export default {
     name:"Header"
 }
 </script>
-
-<style scoped>
-.main{
-    position: -webkit-sticky;
-    position: sticky;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 1rem;
-    top:0;
-    background: white;
-}
-.sub{
-    display: flex;
-    flex-direction: row;
-    gap:1rem;
-    justify-content: center;
-    align-content: center;
-    margin-top: 0.7rem;
-}
-</style>
