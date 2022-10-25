@@ -8,7 +8,7 @@
       <Card title="Adobe Photoshop Training: From Beginner to Pro" img="c2.png" enrollno="6,995" price="$300"
             time="6 hr 20 mins" lecno="24" instructor="Wanda Willson" proimg="p2.png" />
       <Card title="Social Media Marketing - A to Z Content Marketing class 2021" img="c3.png" enrollno="46,995"
-            price="$200" time="11 hr 20 mins" lecno="44" instructor="Albert Hitler" proimg="p1.png" />
+            price="$200" time="11 hr 20 mins" lecno="44" instructor="Net ninja" proimg="p1.png" />
     </div>
   </section>
 </template>
