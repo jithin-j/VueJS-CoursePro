@@ -22,7 +22,7 @@
                 <div class="card-footer">
                     <img style="width:3.5rem; height: 3.5rem; border-radius: 3.5rem;" src="../assets/p2.png"
                         alt="profile">
-                    <p>Anshul Jain</p>
+                    <p>Ankita Jain</p>
                     <img style="width:2rem; height: 2rem;" src="../assets/quote.png" alt="quote">
                 </div>
             </div>
