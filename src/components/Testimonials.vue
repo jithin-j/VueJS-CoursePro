@@ -18,7 +18,7 @@
             <div class="flex flex-col rounded-lg card">
                 <p style="font-style:italic; margin:1rem;">It's A Comprehensive Online Learning Platform For Everyone
                     Looking To Learn And Course Pro. Provinding This Platform Which Is Very Beneficial For Practicals.
-                    Students Can Revise Everything At Home Like Dissection And Slides</p>
+                    Students Can Revise Everything At Home Like Dissection And Slides.</p>
                 <div class="card-footer">
                     <img style="width:3.5rem; height: 3.5rem; border-radius: 3.5rem;" src="../assets/p2.png"
                         alt="profile">
